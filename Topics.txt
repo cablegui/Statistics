@@ -1,0 +1,122 @@
+Part 1. R Programming
+
+Data collection and data munging
+Charting using ggplot
+Data types
+Functions
+Parallel processing
+Shiny web programming
+Debugging techniques
+RCpp package
+RExcel
+Building presentations
+Latex basics
+Markdown basics using knitr
+
+
+
+
+Part 2. Statistics
+Chapter 1. Presenting data
+	- Stem and Leaf
+	- Histogram
+	- Bar plot
+	- Frequency polygon plot
+	- Ogives or cumulative frequency plot
+	- Pie chart
+	- Box plot
+	- Scatter plot
+	- Example problems
+
+
+Chapter 2. 
+
+Chapter 3. Descriptive measures of data
+
+Chapter 4. Basic probability
+
+Chapter 5. Discrete probability distributions
+
+Chapter 6. Normal distribution
+
+Chapter 7. Confidence interval estimation
+
+Chapter 7. Univariate exploratory data analysis (Statistical analysis of financial data - Carmona)
+
+Chapter 7. Bivariate data analysis
+
+Chapter 7. Multivariate data analysis
+
+Chapter 8. Hypothesis testing - One sample tests
+
+Chapter 9. Hypothesis testing - Two sample tests
+
+Chapter 10. Analysis of Variance (ANOVA)
+
+Chapter 11. Chi-Square tests and non parametric tests
+
+
+
+
+Part 3. Econometrics
+
+Chapter 12. Simple Linear regression
+
+Chapter 13. Multiple regression analysis
+
+Logistic regression
+
+Survival Analysis
+
+Rates and Poisson regression
+
+Non linear curve fitting
+
+Chapter 14. Dummy variable regression Models
+
+Chapter 15. MultiCollinearity
+
+Chapter 16. Heteroscedasticity
+
+Chapter 17. Autocorrelation
+
+Chapter 18. Econometric Modelling
+
+Chapter 19. Non linear regression models
+
+Chapter 20. Panel data regression models
+
+Chapter 21. Dynamic econometric models
+
+Chapter 22. Simulataneous Equation models
+
+
+
+
+Part 4. Time series Econometrics
+
+Chapter 23. Some basic concepts
+
+Chapter 24. Forecasting
+
+
+
+
+
+
+
+
+
+
+Topics to include
+
+- MATRIX algebra using RCpp
+
+- Machine learning with R
+
+- Time series analysis
+
+- Differential equations using R
+
+
+
